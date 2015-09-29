@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cells-erb
 Version  : 0.0.4
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/cells-erb-0.0.4.gem
 Source0  : https://rubygems.org/downloads/cells-erb-0.0.4.gem
 Summary  : No detailed summary available
