@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cells-erb
 Version  : 0.0.4
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/cells-erb-0.0.4.gem
 Source0  : https://rubygems.org/downloads/cells-erb-0.0.4.gem
 Summary  : No detailed summary available
@@ -52,53 +52,38 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/cells-erb-0.0.4.gem
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/Template/cdesc-Template.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/Template/engine_initialized%3f-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/Template/initialize_engine-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/Template/precompiled_template-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/Template/prepare-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/capture-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/cdesc-Erb.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/content_tag-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/form_tag_html-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/form_tag_with_body-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/render_template-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/template_options_for-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/Erb/with_output_buffer-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/Cell/cdesc-Cell.ri
-/usr/lib64/ruby/gems/2.2.0/doc/cells-erb-0.0.4/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/CHANGES.md
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/cells-erb.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/gemfiles/rails_3.2-tilt-1.4.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-1.4.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-2.0.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-3.0.gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/lib/cell/erb/template.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/lib/cell/erb/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/lib/cells-erb.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/render_in_render.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/render_in_render_2.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_content_tag.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_content_tag_and_content_tag.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_form_for_block.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_form_tag_and_content_tag.erb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song_cell.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/app/controllers/application_controller.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config.ru
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/application.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/boot.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/database.yml
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/environment.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/locales/en.yml
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/dummy/config/routes.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/erb_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/cells-erb-0.0.4/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/cells-erb-0.0.4.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/cells-erb-0.0.4.gem
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/CHANGES.md
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/cells-erb.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/gemfiles/rails_3.2-tilt-1.4.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-1.4.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-2.0.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/gemfiles/rails_4.2-tilt-3.0.gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/lib/cell/erb/template.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/lib/cell/erb/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/lib/cells-erb.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/render_in_render.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/render_in_render_2.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_content_tag.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_content_tag_and_content_tag.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_form_for_block.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song/with_form_tag_and_content_tag.erb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/cells/song_cell.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/app/controllers/application_controller.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config.ru
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/application.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/boot.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/database.yml
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/environment.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/locales/en.yml
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/dummy/config/routes.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/erb_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/cells-erb-0.0.4/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/cells-erb-0.0.4.gemspec
